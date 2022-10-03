@@ -1,0 +1,12 @@
+.mobile__filters {
+    &--checkbox {
+        width: 1.25rem;
+        height: 1.25rem;
+    }
+
+    &--label {
+        display: flex;
+        align-items: center;
+        gap: .75rem;
+    }
+}
